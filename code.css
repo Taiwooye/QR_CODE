@@ -4,6 +4,10 @@ body {
 }
 
 
-.row{
+.row {
     height: 100vh;
+}
+
+.col .trans {
+    background-color: yellow;
 }
